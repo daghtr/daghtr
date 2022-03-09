@@ -4,7 +4,7 @@
 
 - ✍ I'm a student of: [Posts and Telecommunications Institute of Technology](https://portal.ptit.edu.vn/) (PTIT).
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **Embedded System.**
 
 
 ## 📫 How to reach me:
