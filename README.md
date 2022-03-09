@@ -12,7 +12,10 @@
   </a> 
   <a href="https://github.com/daghtr" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
+  </a>
+  <a href="https://www.instagram.com/_dghari.tr/" alt="Instagram">
+    <img src="https://img.icons8.com/cute-clipart/50/000000/instagram-new.png"/>
+  </a>
 </p>
 
 ## Skills:
