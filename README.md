@@ -10,8 +10,8 @@
   <a href="https://www.facebook.com/dagharitr/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="haiksa10b3.hd20@gmail.com" alt="Gmail">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
+  <a href="https://twitter.com/hari_dang" alt="Twitter">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
   </a>
   <a href="https://www.instagram.com/_dghari.tr/" alt="Instagram">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
