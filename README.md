@@ -10,7 +10,7 @@
   <a href="https://www.facebook.com/dagharitr/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" alt="Gmail">
+  <a href="haiksa10b3.hd20@gmail.com" alt="Gmail">
     <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
   </a>
   <a href="https://www.instagram.com/_dghari.tr/" alt="Instagram">
